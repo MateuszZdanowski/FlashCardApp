@@ -1,5 +1,5 @@
 # FlashCardApp
-** Flash card app to learn german words **
+## Flash card app to learn german words  
 This app will help the user learn the 2000 most commonly used german words (data collected by @hermitdave)  
 Data is stored in a CSV file so the user can learn some unknown words every session.  
 Every German card is automatically flipped to the other side after 5 seconds.  
